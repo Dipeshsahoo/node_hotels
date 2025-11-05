@@ -6,7 +6,7 @@ require('dotenv').config()
 // const mongoURL = 'mongodb://localhost:27017/hotels'; // Replace 'hotels' with your database name if needed
 
 // COnnect with mongodb atlas server which has clustter databse in which data store
-// const mongoURL='mongodb+srv://MongodbDipesh:Mongodb2006@cluster0.urj8krx.mongodb.net/'
+// const mongoURL='mongodb+srv:/cluster0.mongodb.net/'
 
 // connect to local mongodb server 
 // const mongoURL_local=process.env.MONGODB_URL_LOCAL
