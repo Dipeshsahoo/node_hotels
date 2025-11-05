@@ -1,3 +1,5 @@
 # Ignore nodemodules directory
 node_modules/
+.env
+
 # Other entries...
